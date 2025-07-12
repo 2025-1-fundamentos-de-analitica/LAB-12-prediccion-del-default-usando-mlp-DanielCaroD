@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/USER/Downloads/Universidad/Fundamentos%20de%20Analitica/LABS/LAB-12-prediccion-del-default-usando-mlp-DanielCaroD/mlruns/0/models/m-56067be1d5b14eb09802270ab80d7543/artifacts
+creation_timestamp: 1752327480072
+experiment_id: '0'
+last_updated_timestamp: 1752327487096
+model_id: m-56067be1d5b14eb09802270ab80d7543
+model_type: null
+name: model
+source_run_id: 55127b5d50634aa29efc5da670023f11
+status: 2
+status_message: null

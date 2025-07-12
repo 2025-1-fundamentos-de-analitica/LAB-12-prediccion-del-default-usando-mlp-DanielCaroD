@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/USER/Downloads/Universidad/Fundamentos%20de%20Analitica/LABS/LAB-12-prediccion-del-default-usando-mlp-DanielCaroD/mlruns/0/cb1e6284b8e14a6ca4f96bce52fe289c/artifacts
+end_time: 1752327332527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb1e6284b8e14a6ca4f96bce52fe289c
+run_name: bouncy-jay-605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752327249061
+status: 3
+tags: []
+user_id: USER

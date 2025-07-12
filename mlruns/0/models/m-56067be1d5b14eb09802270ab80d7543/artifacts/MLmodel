@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/USER/Downloads/Universidad/Fundamentos%20de%20Analitica/LABS/LAB-12-prediccion-del-default-usando-mlp-DanielCaroD/mlruns/0/models/m-56067be1d5b14eb09802270ab80d7543/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-56067be1d5b14eb09802270ab80d7543
+model_size_bytes: 267918
+model_uuid: m-56067be1d5b14eb09802270ab80d7543
+prompts: null
+run_id: 55127b5d50634aa29efc5da670023f11
+utc_time_created: '2025-07-12 13:38:00.133254'
